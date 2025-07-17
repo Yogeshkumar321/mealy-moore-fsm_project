@@ -43,10 +43,12 @@ This project implements a Finite State Machine (FSM) for a vending machine, desi
 | GENERATE   | Apply coin inputs and reset  |
 | MONITOR    | Observe state transitions and dispense output |
 
+
+---
 ---
 
 ### 🔁 state transition diagram 
-![State Diagram](state_diagram.png)
+![State Diagram](statetransition.png)
 
 ---
 
@@ -120,7 +122,7 @@ Assuming the vending machine FSM dispenses when the total coin value reaches 15 
 
 ## 🖥️ Sample Waveform
 
-![Vending Machine Waveform](screenshots/vending_machine_waveform.png)
+![Vending Machine Waveform](outputwaveform.png)
 
 ---
 
