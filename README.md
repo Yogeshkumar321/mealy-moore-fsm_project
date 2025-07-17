@@ -45,7 +45,7 @@ This project implements a Finite State Machine (FSM) for a vending machine, desi
 
 
 ---
----
+
 
 ### 🔁 state transition diagram 
 ![State Diagram](statetransition.png)
